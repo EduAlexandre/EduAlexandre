@@ -6,7 +6,7 @@ Web Developer
 
 Building websites since 2015, During that time, I developed several projects using technologies such as laravel, MySql, node, Java, redis, among others.
 
-* 🌍  I'm based in I1m based on Brazil for now
+* 🌍  I'm based on Brazil for now
 * ✉️  You can contact me at [edualexandre.f@gmail.com](mailto:edualexandre.f@gmail.com)
 * 🧠  I'm learning even more JavaScript, React, Next, Nest and NodeJS
 * 🤝  I'm open to collaborating on Yes
